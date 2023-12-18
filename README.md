@@ -1,5 +1,5 @@
 - 🔭 Curently persuing an ECE degree.
-- 🌱 I’m currently learning a bunch of stuff, spanning from ECE related to quantum mechanics.
+- 🌱 I’m learning a bunch of stuff, spanning from ECE related to quantum mechanics.
 - ⚛ I’m intrested in all quantum and relevant technological applications.
 - 📫 Contact me: constantinidisjpanagiotis@gmail.com
 - 🔹 Find me on LinkedIn: www.linkedin.com/in/panagiotis-constantinidis-966512279
