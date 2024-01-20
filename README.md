@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 Curently persuing an ECE degree.
-- 🌱 I’m learning a bunch of stuff, spanning from ECE related to quantum mechanics.
+- 🌱 I’m learning a bunch of stuff, spanning from ECE related to cpmputational physics.
 - ⚛ I’m intrested in all quantum and relevant technological applications.
 - 📫 Contact me: constantinidisjpanagiotis@gmail.com
 <!--
