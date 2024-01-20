@@ -1,3 +1,8 @@
+<h2 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28D6FF&random=false&width=435&separator=%3C&lines=printf(%22I'm+Panagiotis%22);%3CContact+me!%3Csystem.out.println(%22I'm+Panagiotis%22);%3CJava+is+so+verbose...)](https://git.io/typing-svg)
+</h2>
+
 <p>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="Qiskit" src="https://img.shields.io/badge/-Qiskit-6929C4?logo=Qiskit&logoColor=white"></a>
@@ -11,7 +16,6 @@
 - 🌱 I’m learning a bunch of stuff, spanning from ECE related to quantum mechanics.
 - ⚛ I’m intrested in all quantum and relevant technological applications.
 - 📫 Contact me: constantinidisjpanagiotis@gmail.com
-- 🔹 Find me on LinkedIn: www.linkedin.com/in/panagiotis-constantinidis-966512279
 <!--
 **pConstantinidis/pConstantinidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
