@@ -14,7 +14,7 @@
 
 - 🔭 Curently persuing an ECE degree.
 - 🌱 I’m learning a bunch of stuff, spanning from ECE related to computational physics.
-- ⚛ I’m intrested in all quantum and relevant technological applications.
+- ⚛ I’m interested in all quantum and relevant technological applications.
 - 📫 Contact me: constantinidisjpanagiotis@gmail.com
 <!--
 **pConstantinidis/pConstantinidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
