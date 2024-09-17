@@ -1,6 +1,6 @@
 <h2 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28D6FF&random=false&width=435&separator=%3C&lines=printf(%22I'm+Panagiotis%22);%3CContact+me!%3Csystem.out.println(%22I'm+Panagiotis%22);%3CJava+is+so+verbose...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Contact+me!;printf(%22Hello+GitHub%22);QS+%2B+QC+%3D+ECE)](https://git.io/typing-svg)
 </h2>
 
 <p>
