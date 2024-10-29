@@ -1,0 +1,50 @@
++++++++++ Terminology to Grasp On +++++++++
+
+? to learn
+~ to revise
+! good
+
+CAVEAT: As I read the slides some topics may seem known and self-explenatory
+			thus I haven't considered them. So to get see all the important topics refer to the slides.
+
+--- 2nd Lecture ---
+! Synchronous and asychronous operations
+? Interrupt vector
+! Interrupt mask
+! APICs
+! Context switching
+~ Preemptive multitasking
+~ Non-preemtive multitasking
+! Thread scheduler
+? Kernel components
+! Monolithic kernel
+! Microkernel
+
+--- 3rd Lecture ---
+~ Process components (execution thread, owner, resources, program)
+~ Proceses and programs (the proceses's program may change, not the same with threads)
+! pthread
+~ Memory implementation of a thread
+~ User and OS level threads
+~ Jobs and fibers
+? What is a Shell
+! execve
+~ Signals vs interupts
+~ sigaction functions
+! PCBs and process_table
+~ Synchronus and Asynchronous signals
+
+--- 4th Lecture --- # will we have a race condition at slide 15? #
+! Race conditions
+! Atomicity
+? Reentrant sections
+? Critical sections
+~ Why prefer Locks over Preemption disabling?
+! try_lock method
+! yield method
+~ Properties of mutex
+
+Isn't spin_then_yield a waste of time?
+
+
+
