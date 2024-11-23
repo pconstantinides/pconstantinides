@@ -8,10 +8,15 @@
   <a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-white.svg?logo=java&logoColor=03599C"></a>
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 </p>
+
 - 🔭 Currently pursuing an ECE degree.
+
 - 🌱 I’m learning a bunch of stuff, spanning from ECE related to computational physics.
+
 - ⚛ I’m interested in all quantum and relevant technological applications.
+
 - 📫 Contact me: constantinidisjpanagiotis@gmail.com
+
 <!--
 **pConstantinidis/pConstantinidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
