@@ -1,7 +1,6 @@
 <h2 align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Contact+me!;printf(%22Hello+GitHub%22);QS+%2B+QC+%3D+ECE)](https://git.io/typing-svg)
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=times+new+roman&weight=500&size=32&duration=5070&pause=850&center=true&width=435&lines=Get+in+touch!;QC+%2B+ML+%3D+ECE;***********)](https://git.io/typing-svg)</h2>
 <p>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
   <a href="#"><img alt="Qiskit" src="https://img.shields.io/badge/C++-03599C.svg?logo=c++-blue&logoColor=white"></a>
