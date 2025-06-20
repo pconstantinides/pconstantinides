@@ -8,6 +8,8 @@
   <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 </p>
 
+- You can find my CV [here](https://github.com/pConstantinidis/pConstantinidis/blob/main/cv_pconstant.pdf)
+
 - 🔭 Currently pursuing an ECE degree.
 
 - 🌱 I’m learning a bunch of stuff, spanning from ECE related to computational physics.
