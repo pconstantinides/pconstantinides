@@ -16,8 +16,6 @@
 
 - ⚛ I’m interested in all quantum and relevant technological applications.
 
-- 📫 Contact me: pkonstantinidis2@tuc.gr
-
 <!--
 **pConstantinidis/pConstantinidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
